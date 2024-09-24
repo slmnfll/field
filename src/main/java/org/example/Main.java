@@ -4,14 +4,9 @@ import org.example.code.core.*;
 import org.example.code.core.factory.*;
 
 import org.example.code.data.entities.*;
-import org.example.code.data.repositories.ArticleRepository;
-import org.example.code.data.repositories.DebtRepository;
-import org.example.code.data.repositories.PaymentRepository;
-import org.example.code.data.repositories.interfaces.IArticleRepository;
-import org.example.code.data.repositories.interfaces.IDebtRepository;
-import org.example.code.entities.*;
 
-import org.example.code.repositories.*;
+import org.example.code.data.repositories.interfaces.*;
+import org.example.code.data.repositories.*;
 
 import org.example.code.services.*;
 import org.example.code.services.interfaces.*;
